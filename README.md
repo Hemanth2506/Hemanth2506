@@ -1,17 +1,16 @@
 <div align="center">
 
-# Hi, I'm Hemanth Sanjay! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=HEMANTH%20SANJAY&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20AI%2FML%20%7C%20Software%20Engineering&descAlignY=60&descSize=16&animation=twinkling" width="100%" alt="Animated profile header"/>
 
-### AI & Data Science Student • AI/ML Developer • Software Engineer
+<a href="https://github.com/Hemanth2506">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1100&color=00C2FF&center=true&vCenter=true&width=850&lines=Building+practical+AI+systems;Turning+data+into+useful+products;Exploring+ML+%7C+NLP+%7C+Computer+Vision;Learning+Java+%7C+DSA+%7C+Backend+Engineering;From+idea+%E2%86%92+prototype+%E2%86%92+measurable+system" alt="Animated typing introduction"/>
+</a>
 
-**Building practical AI systems, data-driven products, and scalable software.**
+<br/>
 
-<p>
-  <a href="https://github.com/Hemanth2506">
-    <img src="https://img.shields.io/badge/GitHub-Hemanth2506-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Hemanth2506&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Hemanth2506&label=PROFILE%20VIEWS&style=for-the-badge&color=0e75b6" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Hemanth2506?label=FOLLOWERS&style=for-the-badge&color=203A43" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Hemanth2506?label=TOTAL%20STARS&style=for-the-badge&color=2C5364" alt="Stars"/>
 
 </div>
 
@@ -28,82 +27,171 @@ I'm an **AI & Data Science undergraduate** who enjoys turning ideas into working
 - 🌦️ Currently building **StormGuard AI** — a data-driven weather-risk & nowcasting system
 - 📚 Preparing for higher studies while building practical engineering projects
 
+<details>
+<summary><b>⚡ How I approach projects</b></summary>
+
+<br/>
+
+**Research → Design → Build → Test → Measure → Improve**
+
+I like projects where **real data + engineering + measurable results + a usable interface** come together.
+
+</details>
+
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,sql,html,css" alt="Programming languages"/>
 
-### AI / Data
+### AI • Data • Development
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv,react,fastapi,flask,docker,git,github" alt="Technology stack"/>
 
-**Focus:** Machine Learning · Deep Learning · NLP · Computer Vision · Data Engineering · Geospatial Data
+</div>
 
-### Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Focus areas:** Machine Learning · Deep Learning · NLP · Computer Vision · Data Engineering · Geospatial Data · REST APIs · Full-Stack Development
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-| Project | What it is | Tech |
-|---|---|---|
-| 🌦️ [**StormGuard AI**](https://github.com/Hemanth2506) | Weather-risk & short-horizon nowcasting research prototype | Python · ML · Weather Data |
-| ✈️ [**Aerovision**](https://github.com/Hemanth2506/Aerovision) | Aviation intelligence platform for aircraft health, anomaly detection & operations | React · TypeScript · FastAPI · Python |
-| 💬 [**SentiVision AI**](https://github.com/Hemanth2506/SentiVision) | Full-stack NLP sentiment analysis application | React · FastAPI · NLTK · Scikit-learn |
-| 🏛️ [**TIMEWEAVE**](https://github.com/Hemanth2506/TIMEWEAVE) | Interactive digital heritage experience for Hampi & Vijayanagara history | React · TypeScript · Web 3D |
-| 🧠 [**Deep-Learning**](https://github.com/Hemanth2506/Deep-Learning) | CNN-based Dog vs Cat image classification learning project | TensorFlow · Python · OpenCV |
-| ☕ [**Java Program Placement Training**](https://github.com/Hemanth2506/Java-Program-Placement-Training) | Java fundamentals, problem-solving & placement practice | Java · DSA |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌦️ StormGuard AI
+
+**Weather-risk & short-horizon nowcasting system**
+
+Real-data ML pipeline focused on weather observations, satellite precipitation, data quality and short-horizon prediction.
+
+**Python · ML · Weather Data · Data Engineering**
+
+🟡 **Currently building**
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ Aerovision
+
+**Aviation intelligence platform**
+
+Aircraft health monitoring, anomaly detection, predictive-maintenance concepts and interactive aviation operations.
+
+**React · TypeScript · Three.js · FastAPI · Python**
+
+<a href="https://github.com/Hemanth2506/Aerovision">View project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💬 SentiVision AI
+
+**Full-stack NLP sentiment analysis**
+
+Machine-learning sentiment analysis with a React frontend, FastAPI backend and NLP pipeline.
+
+**React · FastAPI · NLTK · Scikit-learn · SQLite**
+
+<a href="https://github.com/Hemanth2506/SentiVision">View project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ TIMEWEAVE
+
+**Interactive digital heritage experience**
+
+An immersive web experience exploring Hampi and the Vijayanagara Empire through interactive storytelling.
+
+**React · TypeScript · Web 3D**
+
+<a href="https://github.com/Hemanth2506/TIMEWEAVE">View project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Deep Learning
+
+**CNN image-classification learning project**
+
+A practical deep-learning project covering dataset preparation, CNN training, validation and image classification.
+
+**TensorFlow · Python · OpenCV**
+
+<a href="https://github.com/Hemanth2506/Deep-Learning">View project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ Java & DSA
+
+**Placement-oriented programming practice**
+
+Java fundamentals, problem solving, arrays, strings, methods and growing DSA foundations.
+
+**Java · DSA**
+
+<a href="https://github.com/Hemanth2506/Java-Program-Placement-Training">View project →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 What I'm Building & Learning
 
-| Area | What I'm working on |
-|---|---|
-| 🤖 AI / ML | Predictive systems, NLP, computer vision |
-| 🌦️ Data Science | Weather data, forecasting & nowcasting |
-| 💻 Software Engineering | Java, Python, DSA & backend systems |
-| 🌐 Full Stack | React, APIs, databases & deployment |
-| 📚 Learning | Advanced ML, system design & GATE fundamentals |
+<div align="center">
+
+| 🤖 AI / ML | 🌦️ Data Science | 💻 Engineering | 🌐 Full Stack |
+|---|---|---|---|
+| Predictive systems | Weather data | Java & DSA | React |
+| NLP | Nowcasting | Python | APIs |
+| Computer Vision | Data quality | Backend systems | Databases |
+| Deep Learning | Geospatial data | Problem solving | Deployment |
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hemanth2506&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth2506&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Hemanth2506&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanth2506&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub contribution activity"/>
+
+</div>
 
 ---
 
 ## 🧠 Engineering Philosophy
 
-> **Learn → Build → Test → Measure → Improve**
-
-I care about building systems that are **understandable, reproducible and measurable**, not just demos that look good.
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hemanth2506&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Hemanth's GitHub stats"/>
+### **Learn → Build → Test → Measure → Improve**
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth2506&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Hemanth2506&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+*Don't just make it work. Understand it, measure it, and make it better.*
 
 </div>
 
@@ -111,17 +199,19 @@ I care about building systems that are **understandable, reproducible and measur
 
 ## 📌 What You'll Find Here
 
-- 🤖 AI/ML experiments and applications
-- 🌐 Full-stack engineering projects
-- ☕ Java & DSA practice
-- 📊 Data science and deep learning work
-- 🚀 Hackathon and product prototypes
-- 🧪 Experiments that evolve into production-oriented projects
+🤖 AI/ML experiments & applications  
+🌐 Full-stack engineering projects  
+☕ Java & DSA practice  
+📊 Data science & deep learning work  
+🚀 Hackathon & product prototypes  
+🧪 Experiments evolving toward production-oriented systems
 
 ---
 
 <div align="center">
 
-### Building today. Learning every day. Engineering for tomorrow. 🚀
+### ✨ Thanks for visiting my profile
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer" width="100%" alt="Animated profile footer"/>
 
 </div>
