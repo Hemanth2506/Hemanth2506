@@ -1,34 +1,28 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Hemanth2506/Hemanth2506/master/assets/profile-banner.svg" width="100%" alt="Animated profile banner"/>
+<img src="https://raw.githubusercontent.com/Hemanth2506/Hemanth2506/master/assets/profile-banner.svg" width="100%" alt="Hemanth Sanjay PA — AI & Data Science"/>
 
-<a href="https://github.com/Hemanth2506">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1100&color=00C2FF&center=true&vCenter=true&width=850&lines=Building+practical+AI+systems;Turning+data+into+useful+products;Exploring+ML+%7C+NLP+%7C+Computer+Vision;Learning+Java+%7C+DSA+%7C+Backend+Engineering;From+idea+%E2%86%92+prototype+%E2%86%92+measurable+system" alt="Animated typing introduction"/>
-</a>
+<p><strong>AI & Data Science Undergraduate · AI/ML · Software Engineering</strong></p>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Hemanth2506&label=PROFILE%20VIEWS&style=for-the-badge&color=0e75b6" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Hemanth2506?label=FOLLOWERS&style=for-the-badge&color=203A43" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Hemanth2506?label=TOTAL%20STARS&style=for-the-badge&color=2C5364" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=Hemanth2506&label=PROFILE%20VIEWS&style=flat-square" alt="Profile views"/> <img src="https://img.shields.io/github/followers/Hemanth2506?label=Followers&style=flat-square" alt="Followers"/> <img src="https://img.shields.io/github/stars/Hemanth2506?label=Stars&style=flat-square" alt="Stars"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm an **AI & Data Science undergraduate** who enjoys turning ideas into working software through **AI/ML, data science, backend engineering, and full-stack development**.
 
 - 🎓 B.Tech AI & Data Science — Sri Sairam Institute of Technology
-- 🤖 Exploring Machine Learning, NLP, Computer Vision & Deep Learning
-- 💻 Building foundations in Java, Python, DSA & backend development
-- 🌐 Developing full-stack applications and API-driven systems
-- 🌦️ Currently building **StormGuard AI** — a data-driven weather-risk & nowcasting system
-- 📚 Preparing for higher studies while building practical engineering projects
+- Exploring Machine Learning, NLP, Computer Vision & Deep Learning
+- Building foundations in Java, Python, DSA & backend development
+- Developing full-stack applications and API-driven systems
+- Currently building **StormGuard AI** — a data-driven weather-risk & nowcasting system
+- Preparing for higher studies while building practical engineering projects
 
 <details>
-<summary><b>⚡ How I approach projects</b></summary>
+<summary><b>How I approach projects</b></summary>
 
 <br/>
 
@@ -40,17 +34,15 @@ I like projects where **real data + engineering + measurable results + a usable 
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 <div align="center">
 
-### Languages
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,sql,html,css" height="42" alt="Programming languages"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,sql,html,css" alt="Programming languages"/>
-
-### AI • Data • Development
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv,react,fastapi,flask,docker,git,github" alt="Technology stack"/>
+**AI, Data & Engineering**  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv,react,fastapi,flask,docker,git,github" height="42" alt="AI, data and engineering technologies"/>
 
 </div>
 
@@ -58,13 +50,13 @@ I like projects where **real data + engineering + measurable results + a usable 
 
 ---
 
-## 🚀 Featured Work
+## Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌦️ StormGuard AI
+### StormGuard AI
 
 **Weather-risk & short-horizon nowcasting system**
 
@@ -77,7 +69,7 @@ Real-data ML pipeline focused on weather observations, satellite precipitation, 
 </td>
 <td width="50%" valign="top">
 
-### ✈️ Aerovision
+### Aerovision
 
 **Aviation intelligence platform**
 
@@ -93,7 +85,7 @@ Aircraft health monitoring, anomaly detection, predictive-maintenance concepts a
 <tr>
 <td width="50%" valign="top">
 
-### 💬 SentiVision AI
+### SentiVision AI
 
 **Full-stack NLP sentiment analysis**
 
@@ -106,7 +98,7 @@ Machine-learning sentiment analysis with a React frontend, FastAPI backend and N
 </td>
 <td width="50%" valign="top">
 
-### 🏛️ TIMEWEAVE
+### TIMEWEAVE
 
 **Interactive digital heritage experience**
 
@@ -122,7 +114,7 @@ An immersive web experience exploring Hampi and the Vijayanagara Empire through 
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Deep Learning
+### Deep Learning
 
 **CNN image-classification learning project**
 
@@ -135,7 +127,7 @@ A practical deep-learning project covering dataset preparation, CNN training, va
 </td>
 <td width="50%" valign="top">
 
-### ☕ Java & DSA
+### Java & DSA
 
 **Placement-oriented programming practice**
 
@@ -151,11 +143,11 @@ Java fundamentals, problem solving, arrays, strings, methods and growing DSA fou
 
 ---
 
-## 🎯 What I'm Building & Learning
+## Current Focus
 
 <div align="center">
 
-| 🤖 AI / ML | 🌦️ Data Science | 💻 Engineering | 🌐 Full Stack |
+| AI / ML | Data Science | Engineering | Full Stack |
 |---|---|---|---|
 | Predictive systems | Weather data | Java & DSA | React |
 | NLP | Nowcasting | Python | APIs |
@@ -166,7 +158,7 @@ Java fundamentals, problem solving, arrays, strings, methods and growing DSA fou
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -185,7 +177,7 @@ Java fundamentals, problem solving, arrays, strings, methods and growing DSA fou
 
 ---
 
-## 🧠 Engineering Philosophy
+## Engineering Philosophy
 
 <div align="center">
 
@@ -197,14 +189,14 @@ Java fundamentals, problem solving, arrays, strings, methods and growing DSA fou
 
 ---
 
-## 📌 What You'll Find Here
+## Repository Focus
 
-🤖 AI/ML experiments & applications  
-🌐 Full-stack engineering projects  
-☕ Java & DSA practice  
-📊 Data science & deep learning work  
-🚀 Hackathon & product prototypes  
-🧪 Experiments evolving toward production-oriented systems
+AI/ML experiments & applications  
+Full-stack engineering projects  
+Java & DSA practice  
+Data science & deep learning work  
+Hackathon & product prototypes  
+Experiments evolving toward production-oriented systems
 
 ---
 
