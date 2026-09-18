@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=HEMANTH%20SANJAY&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20AI%2FML%20%7C%20Software%20Engineering&descAlignY=60&descSize=16&animation=twinkling" width="100%" alt="Animated profile header"/>
+<img src="https://raw.githubusercontent.com/Hemanth2506/Hemanth2506/master/assets/profile-banner.svg" width="100%" alt="Animated profile banner"/>
 
 <a href="https://github.com/Hemanth2506">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1100&color=00C2FF&center=true&vCenter=true&width=850&lines=Building+practical+AI+systems;Turning+data+into+useful+products;Exploring+ML+%7C+NLP+%7C+Computer+Vision;Learning+Java+%7C+DSA+%7C+Backend+Engineering;From+idea+%E2%86%92+prototype+%E2%86%92+measurable+system" alt="Animated typing introduction"/>
