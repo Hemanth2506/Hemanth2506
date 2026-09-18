@@ -38,13 +38,16 @@ I like projects where **real data + engineering + measurable results + a usable 
 
 <div align="center">
 
-| Languages | AI · Data · Engineering |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,java,js,ts,sql,html,css" height="40" alt="Programming languages"/> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv,react,fastapi,flask,docker,git,github" height="40" alt="AI, data and engineering technologies"/> |
+**Languages**  
+Python · Java · JavaScript · TypeScript · SQL · HTML · CSS
+
+**AI · Data · Engineering**  
+Machine Learning · Deep Learning · NLP · Computer Vision · Data Engineering · Geospatial Data · REST APIs · Full-Stack Development
+
+**Frameworks & Tools**  
+TensorFlow · PyTorch · Scikit-learn · Pandas · NumPy · OpenCV · React · FastAPI · Flask · Docker · Git · GitHub
 
 </div>
-
-**Focus:** Machine Learning · Deep Learning · NLP · Computer Vision · Data Engineering · Geospatial Data · REST APIs · Full-Stack Development
 
 ---
 
