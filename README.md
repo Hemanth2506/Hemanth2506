@@ -36,18 +36,22 @@ I like projects where **real data + engineering + measurable results + a usable 
 
 ## Technical Skills
 
-<div align="center">
+### Languages
 
-**Languages**  
-Python · Java · JavaScript · TypeScript · SQL · HTML · CSS
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-**AI · Data · Engineering**  
-Machine Learning · Deep Learning · NLP · Computer Vision · Data Engineering · Geospatial Data · REST APIs · Full-Stack Development
+### AI, Data & Machine Learning
 
-**Frameworks & Tools**  
-TensorFlow · PyTorch · Scikit-learn · Pandas · NumPy · OpenCV · React · FastAPI · Flask · Docker · Git · GitHub
+<img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge"/> <img src="https://img.shields.io/badge/Deep%20Learning-243B53?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-334E68?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer%20Vision-486581?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Engineering-627D98?style=for-the-badge"/> <img src="https://img.shields.io/badge/Geospatial%20Data-0B7285?style=for-the-badge"/>
 
-</div>
+### Frameworks & Libraries
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+### Tools & Engineering
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-1F6FEB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Full--Stack-334155?style=for-the-badge"/>
+
 
 ---
 
