@@ -14,7 +14,7 @@
 
 I'm an **AI & Data Science undergraduate** who enjoys turning ideas into working software through **AI/ML, data science, backend engineering, and full-stack development**.
 
-- 🎓 B.Tech AI & Data Science — Sri Sairam Institute of Technology
+- B.Tech AI & Data Science — Sri Sairam Institute of Technology
 - Exploring Machine Learning, NLP, Computer Vision & Deep Learning
 - Building foundations in Java, Python, DSA & backend development
 - Developing full-stack applications and API-driven systems
@@ -38,15 +38,13 @@ I like projects where **real data + engineering + measurable results + a usable 
 
 <div align="center">
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,sql,html,css" height="42" alt="Programming languages"/>
-
-**AI, Data & Engineering**  
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv,react,fastapi,flask,docker,git,github" height="42" alt="AI, data and engineering technologies"/>
+| Languages | AI · Data · Engineering |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python,java,js,ts,sql,html,css" height="40" alt="Programming languages"/> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv,react,fastapi,flask,docker,git,github" height="40" alt="AI, data and engineering technologies"/> |
 
 </div>
 
-**Focus areas:** Machine Learning · Deep Learning · NLP · Computer Vision · Data Engineering · Geospatial Data · REST APIs · Full-Stack Development
+**Focus:** Machine Learning · Deep Learning · NLP · Computer Vision · Data Engineering · Geospatial Data · REST APIs · Full-Stack Development
 
 ---
 
