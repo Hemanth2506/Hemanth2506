@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/Hemanth2506">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2400&pause=900&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=180&lines=Hi%2C+I%27m+Hemanth+Sanjay+PA;AI+%26+Data+Science+%7C+AI%2FML+%7C+Developer;Code.+Learn.+Build.+Repeat.;Turning+ideas+into+working+code.;Hackathon+Enthusiast+%7C+Problem+Solver" alt="Animated Hemanth Sanjay PA intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&duration=2400&pause=900&color=7C3AED&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I%27m+Hemanth+Sanjay+PA;AI+%26+Data+Science+%7C+AI%2FML+%7C+Developer;Code.+Learn.+Build.+Repeat.;Turning+ideas+into+working+code.;Hackathon+Enthusiast+%7C+Problem+Solver&repeat=true" alt="Animated Hemanth Sanjay PA intro"/>
 </a>
 
 </div>
