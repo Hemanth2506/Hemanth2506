@@ -2,6 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/Hemanth2506/Hemanth2506/master/assets/profile-banner.svg" width="100%" alt="Hemanth Sanjay PA — AI & Data Science"/>
 
+<div align="center">
+
+<a href="https://github.com/Hemanth2506">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Hi%2C+I'm+Hemanth+Sanjay+PA;AI+%26+Data+Science+%7C+AI%2FML+%7C+Developer" alt="Hi, I'm Hemanth Sanjay PA"/>
+</a>
+
+</div>
+
 <p><strong>AI & Data Science Undergraduate · AI/ML · Software Engineering</strong></p>
 
 <img src="https://komarev.com/ghpvc/?username=Hemanth2506&label=PROFILE%20VIEWS&style=flat-square" alt="Profile views"/> <img src="https://img.shields.io/github/followers/Hemanth2506?label=Followers&style=flat-square" alt="Followers"/> <img src="https://img.shields.io/github/stars/Hemanth2506?label=Stars&style=flat-square" alt="Stars"/>
